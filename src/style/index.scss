@@ -1,0 +1,9 @@
+@import './ant-design-vue.scss';
+
+* {
+  user-select: none;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}

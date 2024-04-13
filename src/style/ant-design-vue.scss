@@ -1,0 +1,24 @@
+.ant-btn-default {
+  border: none;
+}
+
+.ant-tag {
+  border: none;
+}
+
+.ant-spin .ant-spin-dot-item {
+  background-color: #f6ab00;
+}
+
+.ant-modal .ant-modal-close {
+  top: -20px;
+  right: -15px;
+  background-color: rgb(229 201 123);
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+}
+
+.ant-modal .ant-modal-close:hover {
+  background-color: rgba(229, 201, 123, 0.8);
+}

@@ -1,0 +1,25 @@
+{
+  "/api/": {
+    "local/": [
+      "getAreaInfo",
+      "DetectionBox",
+      "task_run",
+      "task_change",
+      "load_area_light_sw",
+      "change_area_light_sw",
+      "equipment_power",
+      "get_telecontrol_info",
+      "set_telecontrol_info"
+    ],
+    "iot_task/": ["getTask"],
+    "iot_equipment/": ["equipmentList", "equipmentChange"],
+    "iot_device/": [
+      "getBankGatewayInfo",
+      "getAirSwitchInfo",
+      "getProductModel"
+    ],
+    "iot_control/": ["getTianQi", "getConfig"],
+    "huaersi/": ["serial_get_bank_id"],
+    "device/": ["lastdata"]
+  }
+}

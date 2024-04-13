@@ -1,0 +1,8 @@
+public
+dist
+*.d.ts
+/src/assets
+package.json
+eslint.config.js 
+postcss.config.js
+tailwind.config.ts
